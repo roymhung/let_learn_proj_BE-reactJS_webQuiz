@@ -1,0 +1,27 @@
+{
+  "name": "be-reactjs-webquiz",
+  "version": "1.0.0",
+  "description": "let_learn_proj_BE-reactJS_webQuiz with royhung",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roymhung/let_learn_proj_BE-reactJS_webQuiz.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "royhung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roymhung/let_learn_proj_BE-reactJS_webQuiz/issues"
+  },
+  "homepage": "https://github.com/roymhung/let_learn_proj_BE-reactJS_webQuiz#readme",
+  "dependencies": {
+  "express": "4.18.2"
+  }
+}
